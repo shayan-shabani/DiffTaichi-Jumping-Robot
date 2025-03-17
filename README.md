@@ -52,10 +52,6 @@ In this project, we simulate a 2D human-skeleton robot constructed from rigid bo
    pip install taichi numpy matplotlib
    ```
 
-3. **Verify DiffTaichi Installation:**
-
-   Run a simple test (see the DiffTaichi documentation) to verify that DiffTaichi is working correctly.
-
 ## How to Run
 
 The main simulation script is `rigid_body.py`.
