@@ -122,10 +122,6 @@ After training, the final simulation output is saved under a folder named `rigid
 - **Extended Simulation:**  
   Expand the topology or add more degrees of freedom (e.g., arms) for more complex locomotion.
 
-## License
-
-This project is released under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 This project was developed as part of the COMP_SCI 302 course. Special thanks to the DiffTaichi community and resources for making differentiable simulation accessible and efficient.
