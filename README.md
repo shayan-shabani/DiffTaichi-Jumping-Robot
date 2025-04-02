@@ -121,9 +121,3 @@ After training, the final simulation output is saved under a folder named `rigid
   Further refine the damping, friction, and actuation parameters to mitigate unwanted mid-air behavior.
 - **Extended Simulation:**  
   Expand the topology or add more degrees of freedom (e.g., arms) for more complex locomotion.
-
-## Acknowledgments
-
-This project was developed as part of the COMP_SCI 302 course. Special thanks to the DiffTaichi community and resources for making differentiable simulation accessible and efficient.
-
----
