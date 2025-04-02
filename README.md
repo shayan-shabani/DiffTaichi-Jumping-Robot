@@ -2,7 +2,7 @@
 
 # DiffTaichi Jumping Robot
 
-This repository contains a DiffTaichi simulation project for a human-skeleton robot that jumps using open-loop control. The project builds upon previous labs by evolving the robot's shape and topology and then introducing time‑based actuation to generate rhythmic jumping behavior.  
+This repository contains a DiffTaichi simulation project for a human-skeleton robot that jumps using open-loop control. The project evolves the robot's shape and topology and uses time‑based actuation to generate rhythmic jumping behavior.  
 
 ## Overview
 
